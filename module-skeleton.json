@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-procurement-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-procurement",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-procurement-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/procurement.md",
+  "presentationPlan": "projects/maintenance/nuxt/procurement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
